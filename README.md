@@ -6,7 +6,7 @@ All the todo items look so ugly that I want to finish and delete them as soon as
 ## Getting Started
 ```
 git clone https://github.com/CecileJiaqiWang/to-do-or-not-to-do.git
-cd ToDoOrNotToDo
+cd to-do-or-not-to-do
 open index.html
 ```
 
